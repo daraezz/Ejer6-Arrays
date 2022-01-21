@@ -17,7 +17,7 @@ Notas: <br>
 - Para tener derecho a la paga al menos deben de llevar uno o más quinquenios en la empresa.
 - El importe a percibir se calcula en función del grupo de cotización y el número de quinquenios que el
 empleado lleva en la empresa, según la siguiente formula.
-- Importe a percibir= Base mínima según grupo de cotización * 0,5 + Número de Quinquenios * 100.
+- Importe a percibir = Base mínima según grupo de cotización * 0,5 + Número de Quinquenios * 100.
 
 <br>
 
